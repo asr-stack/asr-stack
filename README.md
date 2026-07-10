@@ -54,9 +54,6 @@ Gen-Z to Professional Language Translator
 ### LocalLift
 Local Business Recommendation System
 
-### N-Queens Visualizer
-Interactive Spring Boot Visualization
-
 ---
 
 ## 📊 GitHub Stats
