@@ -34,18 +34,6 @@
 
 ---
 
-## 🔐 Cyber Security
-
-- Network Security
-- Digital Forensics
-- Linux Fundamentals
-- Vulnerability Assessment
-- OWASP Top 10
-- Wireshark
-- Nmap
-
----
-
 ## 🚀 Featured Projects
 
 ### ToneShift
