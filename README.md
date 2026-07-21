@@ -44,28 +44,6 @@ Local Business Recommendation System
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asr-stack&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asr-stack&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=asr-stack&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 📧 Email: ghasra482@gmail.com
