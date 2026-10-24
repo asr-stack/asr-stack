@@ -4,8 +4,6 @@
 
 ### ✨ This is Asra Fathima ✨
 
-<img src="./asra-meme.gif.png" width="480">
-
 <br>
 
 ### 🔐 Cyber Security & Digital Forensics Student
