@@ -4,7 +4,7 @@
 
 ### ✨ This is Asra Fathima ✨
 
-<img src="./asra-meme.gif" width="480">
+<img src="./asra-meme.gif.png" width="480">
 
 <br>
 
