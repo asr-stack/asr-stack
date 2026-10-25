@@ -1,91 +1,44 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-# 👋 Hey, Welcome to My GitHub!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:f778ba&height=200&section=header&text=Hi%20👋%2C%20I'm%20Asra&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=ฅ^•ﻌ•^ฅ%20purring%20through%20code%20since%202025&descAlignY=60&descSize=18" width="100%" />
 
-### ✨ This is Asra Fathima ✨
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F778BA&center=true&vCenter=true&width=620&lines=Cyber+Security+%26+Digital+Forensics+Student+🔐;Java+Developer+%7C+DSA+Enthusiast+☕;Turning+random+letters+%26+numbers+into+things;It+works+on+my+machine+¯%5C_(ツ)_/¯;Debugging+with+a+cat+on+my+keyboard+🐈" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-### 🔐 Cyber Security & Digital Forensics Student
-### ☕ Java Developer | 🧠 DSA Enthusiast | 📊 Data Analytics Learner
-
-<p>
-  <i>Building things, solving problems, and occasionally debugging my own decisions. 💀</i>
-</p>
+<img src="https://komarev.com/ghpvc/?username=asr-stack&label=Cats%20who%20visited&color=f778ba&style=for-the-badge" alt="profile views" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
-
-🎓 **MCA Student** (2025–2027)
-
-🔐 Specializing in **Cyber Security & Digital Forensics**
-
-☕ Passionate about **Java Development & Backend Technologies**
-
-🧠 Currently improving my **Data Structures & Algorithms**
-
-📊 Exploring **Data Analytics, AI & Machine Learning**
-
-🚀 Preparing for **Product & Service Based Placements**
-
-💡 I enjoy turning ideas into projects and learning something new with every build.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js" />
-</p>
-
-### ⚙️ Frameworks & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,django,mysql,mongodb" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,docker" />
-</p>
-
----
-
-## 🚀 Featured Projects
+## 🐱 About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-### 💬 ToneShift
+**Asra** here — an MCA student (2025–2027) specializing in **Cyber Security & Digital Forensics**.
 
-**Gen-Z → Professional Language Translator**
+I like making sense of random letters and numbers and building something out of them. Java is my daily driver, DSA keeps me humble, and Data Analytics + AI keep me curious.
 
-A web application that transforms casual Gen-Z slang into professional, academic, and formal language.
+Currently:
+- 🔐 Digging into cyber security & digital forensics
+- ☕ Writing clean Java
+- 📊 Learning data analytics
+- 🚀 Preparing for product & service based placements
 
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Django` `MongoDB`
+**My goal is simple:** write code that works, break things on purpose (ethically), and fix them before the cat knocks them off the table.
 
 </td>
+<td width="40%" align="center" valign="middle">
 
-<td width="50%">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260" alt="cat typing on keyboard" />
 
-### 🏪 LocalLift
-
-**Local Business Recommendation System**
-
-A platform designed to help users discover and explore small local businesses through recommendations and business information.
-
-**Tech Stack**
-
-`Java` `Spring Boot` `MySQL` `Thymeleaf`
+<sub><i>me writing code vs. my cat "helping"</i></sub>
 
 </td>
 </tr>
@@ -93,59 +46,104 @@ A platform designed to help users discover and explore small local businesses th
 
 ---
 
-## 🧠 Currently Learning
-
-```text
-🔐 Cyber Security & Digital Forensics
-☕ Java & Spring Boot
-🧠 Data Structures & Algorithms
-📊 Data Analytics
-🤖 AI / Machine Learning
-🐧 Linux & Networking
-```
-
----
-
-## 🎯 My Current Goal
-
-<p align="center">
-
-### Learn → Build → Break → Debug → Improve → Repeat 🔁
-
-</p>
-
-I'm currently focused on strengthening my technical skills, building meaningful projects, and getting ready for the next step in my career.
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-
-<a href="mailto:ghasra482@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ghasra482%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/asrafathima-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-Asra%20Fathima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/asr-stack">
-  <img src="https://img.shields.io/badge/GitHub-asr--stack-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
+## 🐾 Tech Stack
 
 <div align="center">
 
-### 👀 Thanks for stopping by!
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,mongodb,html,css,js,git,github,linux,vscode&perline=12" alt="tech stack" />
 
-<i>Feel free to explore my repositories and see what I'm building.</i>
+</div>
 
-<br><br>
+---
 
-⭐ **If you find something interesting, consider giving it a star!**
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🐈 Project | 📝 What it does | 🔗 Link |
+|:--|:--|:--|
+| **ToneShift** | Gen-Z to professional language translator. Slang in, corporate tone out | [Repo](https://github.com/asr-stack/ToneShift-) |
+| **LocalLift** | Local business recommendation system | [Profile](https://github.com/asr-stack?tab=repositories) |
+| **EcoPark-Hub** | Eco-friendly park web project | [Repo](https://github.com/asr-stack/EcoPark-Hub) |
+| **Cyber-Security-Projects** | Python experiments in security & forensics | [Repo](https://github.com/asr-stack/Cyber-Security-Projects) |
+| **Data-Science-Projects** | Jupyter notebooks on data science | [Repo](https://github.com/asr-stack/Data-Science-Projects-) |
+
+</div>
+
+---
+
+## 😹 Dev Life, Explained by Cats
+
+<div align="center">
+
+| 🐱 Reality | 💻 Translation |
+|:--|:--|
+| Cat sits on keyboard | `asdfghjkl;` is now committed to main |
+| Cat knocks cup off the table | `git push --force` |
+| Cat stares at the wall for hours | Me reading a stack trace |
+| Cat ignores you, then demands food | Production bug at 5:59 PM on Friday |
+| Cat fits into any box | My code fits in any bug |
+
+```java
+public class Asra {
+    String mood = "caffeinated";
+    String[] sidekicks = {"cat", "coffee", "StackOverflow"};
+
+    public void fixBug() {
+        // it works on my machine
+        // TODO: ask the cat
+    }
+}
+```
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=asr-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f778ba&icon_color=bc8cff&text_color=c9d1d9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asr-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f778ba&text_color=c9d1d9" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=asr-stack&theme=tokyonight&hide_border=true&background=0d1117&ring=f778ba&fire=f778ba&currStreakLabel=f778ba" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asr-stack&bg_color=0d1117&color=f778ba&line=bc8cff&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/asrafathima-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ghasra482@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://asra-resume.onrender.com"><img src="https://img.shields.io/badge/Resume-f778ba?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Resume" /></a>
+<a href="https://github.com/asr-stack"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+```
+  /\_/\    "There are only 10 types of people in the world:
+ ( o.o )    those who understand binary, and cats."
+  > ^ <
+```
+
+<sub>⭐ Star a repo and a cat will purr for you ⭐</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f778ba,50:6e40c9,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
