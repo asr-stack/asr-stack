@@ -36,7 +36,7 @@
   </tr>
 </table>
 <br/>
-<h2> 🛠 Tech Stack</h2>
+<h2> ⚒ Tech Stack ⚙︎ </h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,mongodb,html,css,js,git,github,linux,vscode&perline=12" alt="Tech stack icons" />
 </div>
