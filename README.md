@@ -5,7 +5,7 @@
 <a href="mailto:ghasra482@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://asra-resume-prm5.onrender.com"><img src="https://img.shields.io/badge/Resume-f778ba?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Resume" /></a>
 </div>
-<h2>👩‍💻 About Me</h2>
+<h2> ୨୧ About Me ୨୧ </h2>
 <p>
   I'm an <b>MCA student (2025–2027)</b> specializing in
   <b><ins>Cyber Security &amp; Digital Forensics</ins></b>.
@@ -15,18 +15,18 @@
   and then <i>how they break</i>.
 </p>
 <ul>
-  <li>☕ Writing <b>Java</b>, one semicolon at a time</li>
-  <li>🔐 Learning <b>cyber security</b> and <b>digital forensics</b></li>
-  <li>📊 Exploring <b>data analytics</b> and <b>AI</b></li>
-  <li>🧩 Practicing <b>DSA</b>, because the interview gods demand it</li>
-  <li>🚀 Preparing for <b>product and service based placements</b></li>
-  <li>🐈 Part-time code reviewer, full-time cat person</li>
+  <li> ☕︎ Writing <b>Java</b>, one semicolon at a time</li>
+  <li> ⃠🔒︎ Learning <b>cyber security</b> and <b>digital forensics</b></li>
+  <li> 🗠 Exploring <b>data analytics</b> and <b>AI</b></li>
+  <li> </> Practicing <b>DSA</b>, because the interview gods demand it</li>
+  <li> 🖳 Preparing for <b>product and service based placements</b></li>
+  <li> 𑄝੭ Part-time code reviewer, full-time cat person</li>
 </ul>
 <h2>🛠 Tech Stack</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,mongodb,html,css,js,git,github,linux,vscode&perline=12" alt="Tech stack icons" />
 </div>
-<h2>🚀 Featured Projects</h2>
+<h2>  ⋆｡°✩ Featured Projects ⋆｡°✩ </h2>
 <table>
   <thead>
     <tr>
@@ -57,7 +57,7 @@
     </tr>
   </tbody>
 </table>
-<h2>😅 Developer Life</h2>
+<h2> 𑣲☕︎ Developer Life ⋆౨ৎ˚⟡˖  </h2>
 <div align="center">
   <img src="devlife.svg" alt="Animated terminal: git commit messages getting worse, sudo make me a sandwich, and a cat saying it works on my machine" width="100%" />
 </div>
