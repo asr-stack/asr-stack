@@ -3,7 +3,7 @@
 <br/>
 <a href="https://www.linkedin.com/in/asrafathima-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ghasra482@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://asra-resume.onrender.com"><img src="https://img.shields.io/badge/Resume-f778ba?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Resume" /></a>
+<a href="https://asra-resume-prm5.onrender.com"><img src="https://img.shields.io/badge/Resume-f778ba?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Resume" /></a>
 </div>
 <h2>👩‍💻 About Me</h2>
 <p>
@@ -58,18 +58,9 @@
   </tbody>
 </table>
 <h2>😅 Developer Life</h2>
-<pre>
-$ git commit -m "fixed bug"
-$ git commit -m "fixed the fix"
-$ git commit -m "please work"
-$ git commit -m "it works, don't touch it"
-
-$ sudo make me a sandwich
-Okay.
-
-  /\_/\
- ( o.o )   "It works on my machine."
-  &gt; ^ &lt;
+<div align="center">
+  <img src="devlife.svg" alt="Animated terminal: git commit messages getting worse, sudo make me a sandwich, and a cat saying it works on my machine" width="100%" />
+</div>
 <hr/>
 <div align="center">
   <sub>Thanks for stopping by. Feel free to say hi, or tell me my code has a bug (it probably does).</sub>
