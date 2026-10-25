@@ -5,31 +5,60 @@
 <a href="mailto:ghasra482@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://asra-resume.onrender.com"><img src="https://img.shields.io/badge/Resume-f778ba?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Resume" /></a>
 </div>
----
-👩‍💻 About Me
-I'm an MCA student (2025–2027) specializing in Cyber Security & Digital Forensics. I like understanding how systems work, and then how they break.
-☕ Writing Java, one semicolon at a time
-🔐 Learning cyber security and digital forensics
-📊 Exploring data analytics and AI
-🧩 Practicing DSA, because the interview gods demand it
-🚀 Preparing for product and service based placements
-🐈 Part-time code reviewer, full-time cat person
----
-🛠 Tech Stack
+<h2>👩‍💻 About Me</h2>
+<p>
+  I'm an <b>MCA student (2025–2027)</b> specializing in
+  <b><ins>Cyber Security &amp; Digital Forensics</ins></b>.
+</p>
+<p>
+  I like understanding how systems work, <br/>
+  and then <i>how they break</i>.
+</p>
+<ul>
+  <li>☕ Writing <b>Java</b>, one semicolon at a time</li>
+  <li>🔐 Learning <b>cyber security</b> and <b>digital forensics</b></li>
+  <li>📊 Exploring <b>data analytics</b> and <b>AI</b></li>
+  <li>🧩 Practicing <b>DSA</b>, because the interview gods demand it</li>
+  <li>🚀 Preparing for <b>product and service based placements</b></li>
+  <li>🐈 Part-time code reviewer, full-time cat person</li>
+</ul>
+<h2>🛠 Tech Stack</h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,mongodb,html,css,js,git,github,linux,vscode&perline=12" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,mongodb,html,css,js,git,github,linux,vscode&perline=12" alt="Tech stack icons" />
 </div>
----
-🚀 Featured Projects
-Project	What it does
-ToneShift	Translates Gen-Z slang into professional corporate tone
-LocalLift	Local business recommendation system
-EcoPark-Hub	Eco-friendly park web project
-Cyber-Security-Projects	Python experiments in security and forensics
-Data-Science-Projects	Jupyter notebooks on data science
----
-Developer Life
-```text
+<h2>🚀 Featured Projects</h2>
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">What it does</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/asr-stack/ToneShift-"><b>ToneShift</b></a></td>
+      <td>Translates Gen-Z slang into professional corporate tone</td>
+    </tr>
+    <tr>
+      <td><b>LocalLift</b></td>
+      <td>Local business recommendation system</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/asr-stack/EcoPark-Hub"><b>EcoPark-Hub</b></a></td>
+      <td>Eco-friendly park web project</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/asr-stack/Cyber-Security-Projects"><b>Cyber-Security-Projects</b></a></td>
+      <td>Python experiments in security and forensics</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/asr-stack/Data-Science-Projects-"><b>Data-Science-Projects</b></a></td>
+      <td>Jupyter notebooks on data science</td>
+    </tr>
+  </tbody>
+</table>
+<h2>😅 Developer Life</h2>
+<pre>
 $ git commit -m "fixed bug"
 $ git commit -m "fixed the fix"
 $ git commit -m "please work"
@@ -40,9 +69,8 @@ Okay.
 
   /\_/\
  ( o.o )   "It works on my machine."
-  > ^ <
-```
----
+  &gt; ^ &lt;
+<hr/>
 <div align="center">
-<sub>Thanks for stopping by. Feel free to say hi, or tell me my code has a bug (it probably does).</sub>
+  <sub>Thanks for stopping by. Feel free to say hi, or tell me my code has a bug (it probably does).</sub>
 </div>
